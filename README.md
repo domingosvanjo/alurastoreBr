@@ -1,4 +1,4 @@
-<a href='https://github.com/domingosvanjo/alurastoreBr/blob/master/AluraStoreBr.ipynb'><img width='100%' height="290px" src="assets\projeto.png"></a>
+<a href='https://github.com/domingosvanjo/alurastoreBr/blob/master/AluraStoreBr.ipynb'><img width='100%' height="290px" src="projeto.png"></a>
 
 # Desafio do curso de DataScience AluraStore
 Um desafio de analisar quatro banco de dados .csv de lojas fictícias para treinar o conteúdo dos cursos de iniciante em Python e Ciência de dados.
